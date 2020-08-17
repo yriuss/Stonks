@@ -1,0 +1,5 @@
+# Stonks
+
+IMPORTANTE:
+
+Para funcionar
